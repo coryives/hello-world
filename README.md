@@ -1,2 +1,7 @@
 # hello-world
 Learning about GitHub
+
+A Facebook user frustrated with the dilution of meaningful network content, I am seeking a civil community network that uses a discourse framework avoiding FB dilution while leveraging FB's possibilities.
+A prototype mission statement could evolve from my inititial FB post: 
+
+"Thinking about whether web-based social media could possibly work to civil advantage. What would we like it to enable? Rapid communications of thinking and logic within a community? Threads of meaningful discussion that mature to the point where assertions are rationalized and position logic clarified? How could such a web prevent trolls and bots? How could monitoring of discussion threads be automated or at least distributed throughout the community? How could commercial and political advertisements be managed? How could thinking outside the group be added without diluting discussion with conspiracy theories, fluff, and fake news? How could civility among participants be fostered? How could such a network cover its costs? I'd like to participate in a community that seriously considers this issue from all perspectives. The unautomated analog might be scientific journals, but it is slow and difficult to access for those outside a narrow intellectual community. FB and other popular social media has failed terribly to establish such a web, but somewhere in the WWW there must be people seriously considering how this might be done."
